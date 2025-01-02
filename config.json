@@ -1,0 +1,7 @@
+{
+    "db": "usage.db",
+    "port": 80,
+    "host": "0.0.0.0",
+    "debug": false,
+    "flask_secret": "s3cR3t$k3y@G#j42&7LQw*Zp9h%T"
+}

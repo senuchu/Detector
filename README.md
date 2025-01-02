@@ -1,2 +1,1 @@
-# Detector
-AI Detector
+# temp1
